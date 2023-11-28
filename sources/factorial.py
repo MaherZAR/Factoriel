@@ -6,7 +6,7 @@ def factorial(n):
 #hello Team555
 def main():
     try:
-        # Get user o input for the number
+        # Get user o input for the number youyouy
         num = int(input("Enter a non-negative integer: modifier par youssef"))
 
         # Check if the input test is non-negative
